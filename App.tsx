@@ -1,9 +1,13 @@
 import React from 'react'
 
-const App = () => {
-  return (
-    
-  );
-};
+import { Text, View } from 'react-native'
 
-export default App;
+function App() {
+  return (
+    <View>
+      <Text>gfdfhgsedfs</Text>
+    </View>
+  )
+}
+
+export default App
